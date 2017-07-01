@@ -21,7 +21,7 @@
     "url": "git+https://github.com/blackcend/learn-npm.git"
   },
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
+    "@linclark/pkg": "^1.0.3"
   },
   "bugs": {
     "url": "https://github.com/blackcend/learn-npm/issues"
