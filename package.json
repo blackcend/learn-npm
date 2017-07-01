@@ -1,6 +1,7 @@
 {
   "name": "@blackcend/npm",
   "version": "1.0.0",
+  "private": true,
   "description": "Learn Node Package Modeuls",
   "main": "index.js",
   "scripts": {
@@ -16,7 +17,16 @@
     "package",
     "module"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackcend/learn-npm.git"
+  },
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/blackcend/learn-npm/issues"
+  },
+  "homepage": "https://github.com/blackcend/learn-npm#readme",
+  "devDependencies": {}
 }
