@@ -15,5 +15,8 @@
     "node",
     "package",
     "module"
-  ]
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
